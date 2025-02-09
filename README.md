@@ -2,6 +2,7 @@
 
 ## Screenshots
 - **Generated Trajectory:** ![Generated Trajectory1](Screenshots/path1.png)
+ ![Generated Trajectory3](Screenshots/path3.png)
  ![Generated Trajectory2](Screenshots/path2.png)
 - **Vehicle Visualization:** ![Vehicle Visualization](Screenshots/car.png)
 - **Map Visualization:** ![Map Visualization](Screenshots/map.JPG)
