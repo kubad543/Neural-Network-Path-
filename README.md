@@ -1,10 +1,10 @@
 # Autonomous Vehicle Navigation with NEAT and Pygame
 
 ## Screenshots
-- **Vehicle Visualization:** ![Vehicle Visualization](path_to_image)
-- **Map Visualization:** ![Map Visualization](path_to_image)
-- **Original Map (before 2D transformation):** ![Original Map](path_to_image)
-- **Generated Trajectory:** ![Generated Trajectory](path_to_image)
+- **Generated Trajectory:** ![Generated Trajectory1](Screenshots/path1.png)
+ ![Generated Trajectory2](Screenshots/path2.png)
+- **Vehicle Visualization:** ![Vehicle Visualization](Screenshots/car.png)
+- **Map Visualization:** ![Map Visualization](Screenshots/map.JPG)
 
 ---
 
